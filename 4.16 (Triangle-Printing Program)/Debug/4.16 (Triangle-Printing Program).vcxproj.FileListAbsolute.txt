@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\4.16 (Triangle-Printing Program)\Debug\4.16 (Triangle-Printing Program).exe
+D:\Projects\Visual Studio\4.16 (Triangle-Printing Program)\Debug\4.16 (Triangle-Printing Program).pdb

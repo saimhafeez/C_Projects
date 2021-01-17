@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Visual Studio\Print Letter A\Source.cpp(6,45): warning C4101: 'in_loop': unreferenced local variable
+  Print Letter A.vcxproj -> D:\Projects\Visual Studio\Print Letter A\Debug\Print Letter A.exe

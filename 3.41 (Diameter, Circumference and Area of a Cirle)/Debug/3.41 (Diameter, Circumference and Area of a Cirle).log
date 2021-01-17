@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\Visual Studio\3.41 (Diameter, Circumference and Area of a Cirle)\Source.cpp(18,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Visual Studio\3.41 (Diameter, Circumference and Area of a Cirle)\Source.cpp(19,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3.41 (Diameter, Circumference and Area of a Cirle).vcxproj -> D:\Projects\Visual Studio\3.41 (Diameter, Circumference and Area of a Cirle)\Debug\3.41 (Diameter, Circumference and Area of a Cirle).exe

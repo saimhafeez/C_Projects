@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.20 (Salary Calculator)\Debug\3.20 (Salary Calculator).exe
+D:\Projects\Visual Studio\3.20 (Salary Calculator)\Debug\3.20 (Salary Calculator).pdb

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\4.11 (Find the Smallest)\Debug\4.11 (Find the Smallest).exe
+D:\Projects\Visual Studio\4.11 (Find the Smallest)\Debug\4.11 (Find the Smallest).pdb

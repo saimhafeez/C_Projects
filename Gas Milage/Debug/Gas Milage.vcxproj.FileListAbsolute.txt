@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\Gas Milage\Debug\Gas Milage.exe
+D:\Projects\Visual Studio\Gas Milage\Debug\Gas Milage.pdb

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.18 (Sales Commission Calculator)\Debug\3.18 (Sales Commission Calculator).exe
+D:\Projects\Visual Studio\3.18 (Sales Commission Calculator)\Debug\3.18 (Sales Commission Calculator).pdb

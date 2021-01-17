@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\Print Stars Using Loop\Debug\Print Stars Using Loop.exe
+D:\Projects\Visual Studio\Print Stars Using Loop\Debug\Print Stars Using Loop.pdb

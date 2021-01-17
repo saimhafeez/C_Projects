@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\Finding Factorials\Debug\Finding Factorials.exe
+D:\Projects\Visual Studio\Finding Factorials\Debug\Finding Factorials.pdb

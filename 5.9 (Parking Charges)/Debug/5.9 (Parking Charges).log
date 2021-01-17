@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\Visual Studio\5.9 (Parking Charges)\Source.cpp(41,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Visual Studio\5.9 (Parking Charges)\Source.cpp(29,8): warning C4101: 'charge': unreferenced local variable
+  5.9 (Parking Charges).vcxproj -> D:\Projects\Visual Studio\5.9 (Parking Charges)\Debug\5.9 (Parking Charges).exe

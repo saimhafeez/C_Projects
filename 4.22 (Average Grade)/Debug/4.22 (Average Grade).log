@@ -1,0 +1,4 @@
+﻿D:\SOFTWARES\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (4.22 (Average Grade).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\Projects\Visual Studio\4.22 (Average Grade)\Source.cpp(44,39): warning C4101: 'b_count': unreferenced local variable
+  4.22 (Average Grade).vcxproj -> D:\Projects\Visual Studio\4.22 (Average Grade)\Debug\4.16 (Triangle-Printing Program).exe

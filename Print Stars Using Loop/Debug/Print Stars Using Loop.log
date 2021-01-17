@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Visual Studio\Print Stars Using Loop\Source.cpp(6,13): warning C4552: '<=': result of expression not used
+  Print Stars Using Loop.vcxproj -> D:\Projects\Visual Studio\Print Stars Using Loop\Debug\Print Stars Using Loop.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Visual Studio\3.18 (Sales Commission Calculator)\Source.cpp(9,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3.18 (Sales Commission Calculator).vcxproj -> D:\Projects\Visual Studio\3.18 (Sales Commission Calculator)\Debug\3.18 (Sales Commission Calculator).exe

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.32 (Square of Asterisks)\Debug\3.32 (Square of Asterisks).exe
+D:\Projects\Visual Studio\3.32 (Square of Asterisks)\Debug\3.32 (Square of Asterisks).pdb

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\Visual Studio\print letter I\Source.cpp(5,21): warning C4101: 'count': unreferenced local variable
+  print letter I.vcxproj -> D:\Projects\Visual Studio\print letter I\Debug\print letter I.exe

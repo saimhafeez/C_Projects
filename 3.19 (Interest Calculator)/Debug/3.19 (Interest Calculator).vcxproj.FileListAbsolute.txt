@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.19 (Interest Calculator)\Debug\3.19 (Interest Calculator).exe
+D:\Projects\Visual Studio\3.19 (Interest Calculator)\Debug\3.19 (Interest Calculator).pdb

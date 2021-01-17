@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\Print Letter S\Debug\Print Letter S.exe
+D:\Projects\Visual Studio\Print Letter S\Debug\Print Letter S.pdb

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.41 (Diameter, Circumference and Area of a Cirle)\Debug\3.41 (Diameter, Circumference and Area of a Cirle).exe
+D:\Projects\Visual Studio\3.41 (Diameter, Circumference and Area of a Cirle)\Debug\3.41 (Diameter, Circumference and Area of a Cirle).pdb

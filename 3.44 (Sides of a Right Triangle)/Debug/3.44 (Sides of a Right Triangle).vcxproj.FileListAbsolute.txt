@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.44 (Sides of a Right Triangle)\Debug\3.44 (Sides of a Right Triangle).exe
+D:\Projects\Visual Studio\3.44 (Sides of a Right Triangle)\Debug\3.44 (Sides of a Right Triangle).pdb

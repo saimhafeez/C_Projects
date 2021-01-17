@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\4.10 (Average a Sequence of Integers)\Debug\4.10 (Average a Sequence of Integers).exe
+D:\Projects\Visual Studio\4.10 (Average a Sequence of Integers)\Debug\4.10 (Average a Sequence of Integers).pdb

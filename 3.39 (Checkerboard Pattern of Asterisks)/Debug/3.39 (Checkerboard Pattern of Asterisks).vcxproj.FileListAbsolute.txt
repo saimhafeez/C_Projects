@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.39 (Checkerboard Pattern of Asterisks)\Debug\3.39 (Checkerboard Pattern of Asterisks).exe
+D:\Projects\Visual Studio\3.39 (Checkerboard Pattern of Asterisks)\Debug\3.39 (Checkerboard Pattern of Asterisks).pdb

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.40 (Multiples of 2 with an Infinite Loop)\Debug\3.40 (Multiples of 2 with an Infinite Loop).exe
+D:\Projects\Visual Studio\3.40 (Multiples of 2 with an Infinite Loop)\Debug\3.40 (Multiples of 2 with an Infinite Loop).pdb

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\4.26 (Calculating the Value of π)\Debug\4.26 (Calculating the Value of π).exe
+D:\Projects\Visual Studio\4.26 (Calculating the Value of π)\Debug\4.26 (Calculating the Value of π).pdb

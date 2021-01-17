@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\Print prime no\Debug\Print prime no.exe
+D:\Projects\Visual Studio\Print prime no\Debug\Print prime no.pdb

@@ -1,0 +1,2 @@
+D:\Projects\Visual Studio\3.33 (Hollow Square of Asterisks)\Debug\3.33 (Hollow Square of Asterisks).exe
+D:\Projects\Visual Studio\3.33 (Hollow Square of Asterisks)\Debug\3.33 (Hollow Square of Asterisks).pdb
